@@ -1,1 +1,1 @@
-# aspnet-mvc-ocr-api
+# aspnet-mvc-ocr
